@@ -1,0 +1,304 @@
+15:03:59      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:43)
+yaoyao.test.main(test.java:10)
+
+
+15:03:59      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:48)
+yaoyao.test.main(test.java:10)
+
+
+15:04:12      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:43)
+yaoyao.test.main(test.java:10)
+
+
+15:04:12      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:48)
+yaoyao.test.main(test.java:10)
+
+
+15:06:15      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:43)
+yaoyao.test.main(test.java:10)
+
+
+15:06:15      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:48)
+yaoyao.test.main(test.java:10)
+
+
+16:14:08      找不到js_login
+
+16:14:08      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:48)
+yaoyao.test.main(test.java:10)
+
+
+16:15:20      找不到js_login
+
+16:15:20      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:49)
+yaoyao.test.main(test.java:10)
+
+
+16:15:38      找不到js_login
+
+16:15:38      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:49)
+yaoyao.test.main(test.java:10)
+
+
+16:16:27      找不到js_login
+
+16:16:27      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:48)
+yaoyao.test.main(test.java:10)
+
+
+16:18:26      找不到js_login
+
+16:18:26      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:48)
+yaoyao.test.main(test.java:10)
+
+
+16:19:55      找不到js_login
+
+16:19:55      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:48)
+yaoyao.test.main(test.java:10)
+
+
+16:23:42      鎵句笉鍒癹s_login
+
+16:23:42      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:48)
+yaoyao.test.main(test.java:10)
+
+
+16:24:22      鎵句笉鍒癹s_login
+
+16:24:54      鎵句笉鍒癹s_login
+
+16:24:54      鎵句笉鍒癹s_login~
+
+16:24:54      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:51)
+yaoyao.test.main(test.java:10)
+
+
+16:25:34      鎵句笉鍒癹s_login
+
+16:25:34      鎵句笉鍒癹s_login~
+
+16:25:34      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:53)
+yaoyao.test.main(test.java:10)
+
+
+16:33:02      鎵句笉鍒癹s_login
+
+16:33:02      鎵句笉鍒癹s_login~
+
+16:33:02      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:50)
+yaoyao.test.main(test.java:10)
+
+
+16:59:00      鎵句笉鍒癹s_login
+
+16:59:00      鎵句笉鍒癹s_login~
+
+16:59:00      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:50)
+yaoyao.test.main(test.java:10)
+
+
