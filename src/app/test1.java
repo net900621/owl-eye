@@ -17,8 +17,7 @@ import lib.*;
 import org.w3c.dom.*;
 
 public class test1 {
-	public static void testng(){
-		WebDriver driver = new ChromeDriver();
+	public static void testng(WebDriver driver){
 		driver.get("https://www.jiandanlicai.com/user/login");
 		
 		Object xmlObj = xml.xmlRead("src/xml/test.xml");
@@ -54,7 +53,5 @@ public class test1 {
 //		System.out.println("页面Title:"+driver.getTitle()+"\n页面URL:"+driver.getCurrentUrl());
 //		JavascriptExecutor js = (JavascriptExecutor) driver;
 //		js.executeScript("alert(123)");
-		
-		driver.quit();
 	}
 }
