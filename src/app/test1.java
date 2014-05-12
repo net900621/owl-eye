@@ -1,16 +1,11 @@
 package app;
 
-import java.util.NoSuchElementException;
-
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 
 import lib.xml;
-
-import javax.xml.parsers.*;
 
 import lib.*;
 
@@ -33,7 +28,6 @@ public class test1 {
 		driver.findElement(By.id("password")).sendKeys(valuePwd);
 		driver.findElement(By.className("js_login")).click();
 		
-//		driver.findElement(By.linkText("/logout"))
 		try {
 			Thread.sleep(3000);
 		} catch (InterruptedException e) {
