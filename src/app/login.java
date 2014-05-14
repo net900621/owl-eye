@@ -3,10 +3,8 @@ package app;
 import lib.error;
 import lib.xml;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.*;
 import org.w3c.dom.*;
-import org.w3c.dom.NodeList;
 
 public class login {
 	public static void testlogin(WebDriver driver){
@@ -14,7 +12,13 @@ public class login {
 		Element element = doc.getDocumentElement();
 		NodeList login = doc.getElementsByTagName("login");
 		int len = login.getLength();
-		
+//		driver.findElement(By.xpath("xpath=//*[@contains(text(),'删除')]")).getText();
+//		try{
+//			System.out.println(driver.findElement(By.xpath("xpath=//*[text()='新闻']")).getText());
+//			driver.findElement(By.xpath("xpath=//*[text()='新闻']")).getText();
+//		}catch(Exception e){
+//			error.fileError(e);
+//		}
 		for(int i =0; i < len; i++){
 			driver.get("https://www.jiandanlicai.com/user/login");
 			System.out.println("根元素为:"+element.getTagName());
@@ -24,6 +28,7 @@ public class login {
 			driver.findElement(By.id("username")).clear();
 			driver.findElement(By.id("username")).sendKeys(valUser);
 			driver.findElement(By.id("password")).sendKeys(valPwd);
+//			System.out.println(driver.findElement(By.xpath("xpath=//div[@id='username']")));
 			driver.findElement(By.className("js_login")).click();
 			try {
 				Thread.sleep(3000);
