@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<base>
+<login>
+<userName>net900621@163.com</userName>
+<password>19900621</password>
+<truely>1</truely>
+</login>
+<login>
+<userName>net900622@163.com</userName>
+<password>19900621</password>
+<truely>0</truely>
+</login>
+<login>
+<userName>net900621@163.com</userName>
+<password>19900622</password>
+<truely>0</truely>
+</login>
+</base>

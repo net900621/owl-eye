@@ -1,11 +1,12 @@
 package lib;
 
 import javax.xml.parsers.*;
+
 import org.w3c.dom.*;
 
 public class xml {
 	
-	public static Object xmlRead(String src){
+	public static Document xmlRead(String src){
 		DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();  
         try
         {  
@@ -17,7 +18,7 @@ public class xml {
         {  
             e.printStackTrace();  
         }
-        return new Object();
+        return (Document)new Object();
 	}
 	
 }

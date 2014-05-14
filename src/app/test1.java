@@ -1,11 +1,9 @@
 package app;
 
-import org.openqa.selenium.Alert;
+//import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
+//import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
-
-import lib.xml;
 
 import lib.*;
 
@@ -14,20 +12,26 @@ import org.w3c.dom.*;
 public class test1 {
 	public static void testng(WebDriver driver){
 		driver.get("https://www.jiandanlicai.com/user/login");
-		
-		Object xmlObj = xml.xmlRead("src/xml/test.xml");
-		Document doc = (Document) xmlObj;
-		
+
+		Document doc = xml.xmlRead("src/xml/test.xml");
+
 		NodeList userName = doc.getElementsByTagName("userName");
 		NodeList passWord = doc.getElementsByTagName("password");
+//		NodeList login = doc.getElementsByTagName("login");
+//		int len = login.getLength();
+//		for(int i =0; i < len; i++){
+//			Element element = (Element)login.item(i);
+//			String valUser = element.getElementsByTagName("userName").item(0).getFirstChild().getNodeValue();
+//			String valPwd = element.getElementsByTagName("password").item(0).getFirstChild().getNodeValue();
+//		}
 		Node user = userName.item(0).getFirstChild();
-        String valueUser = user.getNodeValue();  
+        String valueUser = user.getNodeValue();
         Node pwd = passWord.item(0).getFirstChild();
-        String valuePwd = pwd.getNodeValue();  
+        String valuePwd = pwd.getNodeValue();
 		driver.findElement(By.id("username")).sendKeys(valueUser);
 		driver.findElement(By.id("password")).sendKeys(valuePwd);
 		driver.findElement(By.className("js_login")).click();
-		
+
 		try {
 			Thread.sleep(3000);
 		} catch (InterruptedException e) {

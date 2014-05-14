@@ -1,0 +1,104 @@
+11:53:42      找不到js_login
+
+11:53:42      找不到js_login~
+
+11:53:42      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:41)
+yaoyao.test.main(test.java:12)
+
+
+15:06:29      找不到js_login
+
+15:06:29      找不到js_login~
+
+15:06:29      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:48)
+yaoyao.test.main(test.java:12)
+
+
+15:06:56      找不到js_login
+
+15:06:56      找不到js_login~
+
+15:06:56      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:48)
+yaoyao.test.main(test.java:12)
+
+
+15:42:29      找不到js_login
+
+15:42:29      找不到js_login~
+
+15:42:29      org.openqa.selenium.NoSuchElementException: no such element
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:388)
+org.openqa.selenium.By$ByClassName.findElement(By.java:371)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+app.test1.testng(test1.java:47)
+yaoyao.test.main(test.java:12)
+
+
+16:01:53      java.lang.ClassCastException: org.apache.xerces.dom.DeferredElementImpl cannot be cast to com.gargoylesoftware.htmlunit.javascript.host.Element
+app.login.testlogin(login.java:30)
+yaoyao.test.main(test.java:13)
+
+
+16:02:14      java.lang.ClassCastException: org.apache.xerces.dom.DeferredElementImpl cannot be cast to com.gargoylesoftware.htmlunit.javascript.host.Element
+app.login.testlogin(login.java:30)
+yaoyao.test.main(test.java:13)
+
+
+16:43:20      错误账号也能登陆！
+
+16:43:53      错误账号也能登陆！
+
+16:46:21      错误账号也能登陆！
+
+16:47:12      错误账号也能登陆！
+
+16:49:11      错误账号也能登陆！
+
+16:49:32      错误账号也能登陆！
+
+17:39:42      错误账号也能登陆！
+
