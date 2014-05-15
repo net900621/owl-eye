@@ -12,23 +12,18 @@ public class login {
 		Element element = doc.getDocumentElement();
 		NodeList login = doc.getElementsByTagName("login");
 		int len = login.getLength();
-//		driver.findElement(By.xpath("xpath=//*[@contains(text(),'删除')]")).getText();
-//		try{
-//			System.out.println(driver.findElement(By.xpath("xpath=//*[text()='新闻']")).getText());
-//			driver.findElement(By.xpath("xpath=//*[text()='新闻']")).getText();
-//		}catch(Exception e){
-//			error.fileError(e);
-//		}
+		String valUser = "";
+		String valPwd = "";
+		int valT = 0;
 		for(int i =0; i < len; i++){
 			driver.get("https://www.jiandanlicai.com/user/login");
-			System.out.println("根元素为:"+element.getTagName());
-			String valUser = element.getElementsByTagName("userName").item(i).getFirstChild().getNodeValue();
-			String valPwd = element.getElementsByTagName("password").item(i).getFirstChild().getNodeValue();
-			int valT = Integer.parseInt(element.getElementsByTagName("truely").item(i).getFirstChild().getNodeValue());
+			valUser = element.getElementsByTagName("userName").item(i).getFirstChild().getNodeValue();
+			valPwd = element.getElementsByTagName("password").item(i).getFirstChild().getNodeValue();
+			valT = Integer.parseInt(element.getElementsByTagName("truely").item(i).getFirstChild().getNodeValue());
 			driver.findElement(By.id("username")).clear();
 			driver.findElement(By.id("username")).sendKeys(valUser);
 			driver.findElement(By.id("password")).sendKeys(valPwd);
-//			System.out.println(driver.findElement(By.xpath("xpath=//div[@id='username']")));
+//			System.out.println(driver.findElement(By.xpath("//div[@id='username']")));
 			driver.findElement(By.className("js_login")).click();
 			try {
 				Thread.sleep(3000);

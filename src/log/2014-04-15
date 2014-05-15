@@ -1,0 +1,49 @@
+11:39:25      php error:
+A PHP Error was encountered
+Severity: Notice
+Message:  Undefined variable: bill
+Filename: account/summary.php
+Line Number: 197
+
+11:39:27      php error:
+A PHP Error was encountered
+Severity: Notice
+Message:  Undefined variable: projectList3
+Filename: welcome/welcome.php
+Line Number: 183
+
+11:39:28      php error:
+A PHP Error was encountered
+Severity: Notice
+Message:  Undefined variable: pager1
+Filename: help/gather.php
+Line Number: 11
+
+11:39:28      php error:
+A PHP Error was encountered
+Severity: Notice
+Message:  Undefined variable: postList
+Filename: help/news_item.php
+Line Number: 2
+
+11:39:29      php error:
+A PHP Error was encountered
+Severity: Warning
+Message:  Invalid argument supplied for foreach()
+Filename: help/news_item.php
+Line Number: 2
+
+11:39:29      php error:
+A PHP Error was encountered
+Severity: Notice
+Message:  Use of undefined constant echo21 - assumed 'echo21'
+Filename: controllers/tools.php
+Line Number: 40
+
+11:39:30      php error:
+A PHP Error was encountered
+Severity: Notice
+Message:  Use of undefined constant fji - assumed 'fji'
+Filename: controllers/tools.php
+Line Number: 41
+
