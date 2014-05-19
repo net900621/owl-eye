@@ -1,7 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <base>
+	
+	<!--
+	注册测试
+	-->
+	
 	<list>
-		<page>http://test.jiandanlicai.com/account</page>
-		<title>张虎页报错测试</title>
+		<page>http://www.jiandanlicai.com/account</page>
+		<title>账户摘要报错测试</title>
+	</list>
+	<list>
+		<page>http://www.jiandanlicai.com/account/invest</page>
+		<title>投资记录报错测试</title>
+	</list>
+	<list>
+		<page>http://www.jiandanlicai.com/account/deal</page>
+		<title>交易记录报错测试</title>
+	</list>
+	<list>
+		<page>http://www.jiandanlicai.com/account/agreement</page>
+		<title>合同下载报错测试</title>
+	</list>
+	<list>
+		<page>http://www.jiandanlicai.com/account/redeem</page>
+		<title>提前赎回报错测试</title>
+	</list>
+	<list>
+		<page>http://www.jiandanlicai.com/account/setting</page>
+		<title>安全设置报错测试</title>
+	</list>
+	<list>
+		<page>http://www.jiandanlicai.com/account/msg</page>
+		<title>消息中心报错测试</title>
+	</list>
+	<!--
+	非注册测试
+	-->
+	
+	<list>
+		<page>https://www.jiandanlicai.com</page>
+		<title>首页报错测试</title>
+	</list>
+	<list>
+		<page>http://www.jiandanlicai.com/help/gather</page>
+		<title>新闻之声报错测试</title>
+	</list>
+	<list>
+		<page>https://www.jiandanlicai.com/tools</page>
+		<title>实用工具报错测试</title>
+	</list>
+	<list>
+		<page>http://www.jiandanlicai.com/invest</page>
+		<title>签约机构总览报错测试</title>
+	</list>
+	<list>
+		<page>http://www.jiandanlicai.com/invest/project</page>
+		<title>投资项目报错测试</title>
+	</list>
+	<list>
+		<page>http://www.jiandanlicai.com/invest/organ/4</page>
+		<title>签约机构报错测试</title>
+	</list>
+	<list>
+		<page>http://www.jiandanlicai.com/invest/single/230</page>
+		<title>投资项目230报错测试</title>
 	</list>
 </base>

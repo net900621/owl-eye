@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <base>
 	<list>
-		<page>https://test.jiandanlicai.com</page>
+		<page>https://www.jiandanlicai.com</page>
 		<title>首页报错测试</title>
 	</list>
 	<list>
-		<page>http://test.jiandanlicai.com/help/gather</page>
+		<page>http://www.jiandanlicai.com/help/gather</page>
 		<title>新闻之声报错测试</title>
 	</list>
 	<list>
-		<page>https://test.jiandanlicai.com/tools</page>
+		<page>https://www.jiandanlicai.com/tools</page>
 		<title>实用工具报错测试</title>
+	</list>
+	<list>
+		<page>http://www.jiandanlicai.com/invest</page>
+		<title>签约机构总览报错测试</title>
+	</list>
+	<list>
+		<page>http://www.jiandanlicai.com/invest/project</page>
+		<title>投资项目报错测试</title>
+	</list>
+	<list>
+		<page>http://www.jiandanlicai.com/invest/organ/4</page>
+		<title>签约机构报错测试</title>
+	</list>
+	<list>
+		<page>http://www.jiandanlicai.com/invest/single/230</page>
+		<title>投资项目230报错测试</title>
 	</list>
 </base>
