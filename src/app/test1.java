@@ -4,13 +4,13 @@ package app;
 import java.util.List;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
+//import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 import lib.*;
 
-import org.w3c.dom.*;
+//import org.w3c.dom.*;
 
 public class test1 {
 	public static void testng(WebDriver driver){
